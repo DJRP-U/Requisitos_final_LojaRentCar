@@ -1,5 +1,5 @@
 #  Universidad Nacional de Loja | Carrera de Computación
-* Proyecto Final de Requisitos de Software *
+*Proyecto Final de Requisitos de Software*
 
 Integrantes:
 - Juan Pablo Torres Calva
